@@ -1,4 +1,4 @@
-# Threatelligence
+# Threat Intelligence
 
 A Python-based Threat Intelligence project designed to analyze and visualize high-risk cyber threats. This project processes threat data from local files and APIs, performs threat analysis, and provides visual insights to aid in cybersecurity efforts.
 
